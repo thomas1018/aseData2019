@@ -1,0 +1,3 @@
+event,pvalue_original_alpha0.25,effectsize_original_alpha0.25,pvalue_original_alpha0.75,effectsize_original_salpha0.75,pvalue_original_residual0.25,effectsize_original_residual0.25,pvalue_original_residual0.75,effectsize_original_residual0.75,pvalue_original_meanshift,effectsize_original_meanshift
+r,0.005686182,-0.151712523,1,-5.17E-18,0.900500021,0.0068785,0.900794638,-0.00685821,0.253324487,0.072618073
+s,0.000656653,0.186916646,1,1.39E-18,0.902549897,-0.006736466,0.912225702,0.006066878,1.74E-14,-0.220704488
